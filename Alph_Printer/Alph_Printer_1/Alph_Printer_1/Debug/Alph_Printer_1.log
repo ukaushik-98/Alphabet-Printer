@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\udit\placement exams\ics 45c\projects\testproject\alph_printer_1\alph_printer_1\main.cpp(12): warning C4552: '>=': operator has no effect; expected operator with side-effect
+c:\udit\placement exams\ics 45c\projects\testproject\alph_printer_1\alph_printer_1\main.cpp(13): warning C4552: '>=': operator has no effect; expected operator with side-effect
+c:\udit\placement exams\ics 45c\projects\testproject\alph_printer_1\alph_printer_1\main.cpp(32): warning C4552: '>=': operator has no effect; expected operator with side-effect
+  Alph_Printer_1.vcxproj -> C:\UDIT\Placement Exams\ICS 45C\Projects\TestProject\Alph_Printer_1\Debug\Alph_Printer_1.exe
